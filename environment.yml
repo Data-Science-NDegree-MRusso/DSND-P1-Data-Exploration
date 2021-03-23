@@ -1,0 +1,14 @@
+name: dsnd-proj1
+channels:
+    - https://conda.anaconda.org/menpo
+    - conda-forge
+dependencies:
+    - python==3.6.1
+    - pip
+    - pip:
+        - numpy
+        - matplotlib
+        - jupyter
+        - pandas
+        - scikit-learn
+        - seaborn
