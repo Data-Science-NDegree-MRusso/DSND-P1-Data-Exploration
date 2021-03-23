@@ -6,7 +6,7 @@ This Project is submitted as part of the Udacity Data Science Nanodegree.
 
 For it the goal is to prepare a Jupyter Notebook to explore a reference data set, in order to use the results as a support for the content of a Medium blog.
 
-### Requirements
+## Requirements
 
 In order to facilitate the execution of the Notebook I have prepared an [`environment.yml`](./environment.yml) file to be used to install an environment with [Anaconda](https://www.continuum.io/downloads):
 
