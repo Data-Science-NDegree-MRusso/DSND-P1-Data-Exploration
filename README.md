@@ -24,12 +24,17 @@ dsnd-proj1        /usr/local/anaconda3/envs/dsnd-proj1
 ... 
 ```
 
-To start the environment just type:
+To activate the environment just type:
 
 ```sh
 conda activate dsnd-proj1
 ```
 
+Once you finished working on the notebook, to deactivate the environment just type:
+
+```sh
+conda deactivate
+```
 
 ## Notes on the content
 The starting data are those provided through the [StackOverflow annual developer survey](https://insights.stackoverflow.com/survey/). 
