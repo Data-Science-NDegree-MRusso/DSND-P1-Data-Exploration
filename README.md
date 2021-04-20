@@ -37,7 +37,7 @@ conda deactivate
 ```
 
 ## Notes on the content
-The starting data are those provided through the [StackOverflow annual developer survey](https://insights.stackoverflow.com/survey/). 
+The data for this analysis are provided through the [StackOverflow annual developer survey](https://insights.stackoverflow.com/survey/). 
 
 I was interested in a comparison of some classes of categories through the years, rather than an in-depth analysis of a specific years. More specifically, the question I was trying to answer is: how do the characteristics of the population of respondents change over time? Is it possible to identify patterns and attempt forecasts?
 
