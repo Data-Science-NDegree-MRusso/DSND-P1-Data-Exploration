@@ -4,7 +4,7 @@
 
 This Project is submitted as part of the Udacity Data Science Nanodegree.
 
-For it the goal is to prepare a [Jupyter Notebook](./StackOverflow_survey_analysis.ipynb) to explore a reference data set, in order to use the results as a support for the content of a Medium blog.
+For it the goal is to prepare a [Jupyter Notebook](./StackOverflow_survey_analysis.ipynb) to explore a reference data set, in order to use the results as a support for the content of a Medium blog post.
 
 ## Requirements
 
