@@ -1,4 +1,5 @@
 # Data Exploration Project
+[![Udacity - Data Sciencd NanoDegree](https://img.shields.io/badge/Udacity-DSND-blue?style=plastic&logo=udacity)](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 ## Overview
 
@@ -48,4 +49,4 @@ Specifically on gender, the data and a quick linear model could provide some int
 The Medium post I wrote is [here](https://michelangelo-russo.medium.com/do-things-really-change-in-software-2d5f2c7c9244): as I said there, this analysis has no claim of completeness or exhaustive scientific value. However, I think it can provide some objective data point to look into into a situation that many of us have witnessed and feel should change.
 
 ## License
- <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+ <a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" style="border-width:0" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic" /></a><br />This work is licensed under an <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
