@@ -1,4 +1,4 @@
-# Data-Exploration Project
+# Data Exploration Project
 
 ## Overview
 
