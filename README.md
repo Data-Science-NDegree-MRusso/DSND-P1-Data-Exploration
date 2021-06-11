@@ -9,7 +9,7 @@ For it the goal is to prepare a [Jupyter Notebook](./StackOverflow_survey_analys
 
 ## Requirements
 
-In order to facilitate the execution of the Notebook I have prepared an [`environment.yml`](./environment.yml) file to be used to install an environment with [Anaconda](https://www.continuum.io/downloads):
+In order to facilitate the execution of the Notebook I have prepared an [`environment.yml`](./environment.yml) file to be used to install an environment with [Anaconda](https://www.anaconda.com/):
 
 ```sh
 conda env create -f environment.yml
